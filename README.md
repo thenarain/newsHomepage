@@ -23,7 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop Version
+
 ![](./assets/images/news-homepage-desktop.png)
+
+#### Mobile Version
 
 ![](./assets/images/news-homepage-mobile.png)
 
