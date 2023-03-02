@@ -51,6 +51,10 @@
     font-size: 20px;
 }
 
+.option>a:hover {
+    color: hsl(5, 85%, 63%);
+}
+
 #close {
     padding: 20px;
 }
@@ -148,6 +152,10 @@
     color: hsl(36, 100%, 99%);
 }
 
+.subheading:hover {
+    color: hsl(35, 77%, 62%);
+}
+
 .subpara {
     font-family: 'Inter';
     font-size: 15px;
@@ -193,6 +201,10 @@
     color: hsl(240, 100%, 5%);
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+.item-heading:hover {
+    color: hsl(5, 85%, 63%);
 }
 
 .item-para {
